@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caranouga&show_icons=true&locale=en" alt="caranouga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caranouga&theme=default" alt="caranouga" /></p>
+
+![](https://github.com/legabi/legabi/blob/output/github-contribution-grid-snake.svg)
