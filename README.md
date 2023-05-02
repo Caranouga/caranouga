@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caranouga&theme=default" alt="caranouga" /></p>
 
-![](https://github.com/Caranouga/caranouga/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Caranouga/caranouga/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
