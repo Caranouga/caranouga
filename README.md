@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/caranouga_" target="blank"><img src="https://img.shields.io/twitter/follow/caranouga_?logo=twitter&style=for-the-badge" alt="caranouga_" /></a> </p>
 
-- 🔭 I’m currently working on [ImagicDisney](https://discord.gg/E3kw7zd6sz)
+- 🔭 I’m currently working on [ImagicDisney](https://discord.gg/Va9tNrUWnw)
 
 - 🌱 I’m currently learning **FrontEnd developpement**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **minecraft plugins/mods**
 
-- 📫 How to reach me **Caranouga#6598**
+- 📫 How to reach me **@caranouga (on discord)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
