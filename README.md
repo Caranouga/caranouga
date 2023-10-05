@@ -38,7 +38,6 @@
 <br/>
 <br/>
 <br/>
-https://raw.githubusercontent.com/Caranouga/caranouga/output/github-contribution-grid-snake.svg
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caranouga/caranouga/output/github-contribution-grid-snake-dark.svg" />
